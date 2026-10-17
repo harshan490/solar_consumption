@@ -1,0 +1,9 @@
+{
+  "appId": "com.harshan.solarunits",
+  "appName": "Solar Units",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
